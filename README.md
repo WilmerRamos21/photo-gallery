@@ -27,21 +27,25 @@ La aplicación permite interactuar con el usuario mediante alertas y capturar im
 ### 🔔 Alerta en funcionamiento
 
 Se muestra el uso del servicio de alertas implementado en la aplicación.
-
-
+- Alerta 1
+![Alerta 1](./Screenshots/Alerta.png)
+- Alerta 2
+![Alerta 2](./Screenshots/Alerta1.png)
 ### 📷 Uso de cámara
 
 Captura de imagen desde el dispositivo móvil.
-
+![Uso de Camara](./Screenshots/Camara.png)
 
 ### 🖼️ Galería de imágenes
 
 Visualización de imágenes almacenadas localmente.
-
+![Galeria](./Screenshots/Galeria.png)
 
 ## 📱 Ejecución en dispositivo real
 
 La aplicación fue probada en un dispositivo físico con Android 11, demostrando el correcto funcionamiento de la cámara, almacenamiento y alertas.
+
+https://www.youtube.com/shorts/P6yC1tEPZ4s
 
 ## ⚙️ Instalación
 
