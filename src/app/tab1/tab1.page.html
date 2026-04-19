@@ -1,17 +1,32 @@
-<ion-header [translucent]="true">
+<ion-header>
+
   <ion-toolbar>
-    <ion-title>
-      Tab 1
-    </ion-title>
+
+    <ion-title>Inicio</ion-title>
+
   </ion-toolbar>
+
 </ion-header>
 
-<ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">Tab 1</ion-title>
-    </ion-toolbar>
-  </ion-header>
+<ion-content class="ion-padding">
 
-  <app-explore-container name="Tab 1 page"></app-explore-container>
+  <div class="container">
+
+    <h1 class="subtitle">Aplicación Ionic con Cámara y Alertas</h1>
+
+    <ion-button expand="flex" (click)="mostrarAlerta()">
+
+      Mostrar Alerta
+
+    </ion-button>
+
+    <ion-button expand="flex" color="secondary" (click)="confirmar()">
+
+      Confirmar Acción
+
+    </ion-button>
+
+
+  </div>
 </ion-content>
+
