@@ -22,7 +22,7 @@ La aplicación permite interactuar con el usuario mediante alertas y capturar im
 ## 📸 Capturas de la aplicación
 
 ### 🏠 Pantalla principal
-
+https://github.com/WilmerRamos21/photo-gallery/blob/main/Screenshots/Inicio.png?raw=true
 
 ### 🔔 Alerta en funcionamiento
 
