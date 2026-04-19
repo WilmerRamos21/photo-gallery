@@ -41,12 +41,12 @@ Visualización de imágenes almacenadas localmente.
 
 ## 📱 Ejecución en dispositivo real
 
-La aplicación fue probada en un dispositivo físico con Android 9, demostrando el correcto funcionamiento de la cámara, almacenamiento y alertas.
+La aplicación fue probada en un dispositivo físico con Android 11, demostrando el correcto funcionamiento de la cámara, almacenamiento y alertas.
 
 ## ⚙️ Instalación
 
 1. Clonar el repositorio:
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/WilmerRamos21/photo-gallery.git
 2. Instalar dependencias:
 npm install
 3. Ejecutar en navegador:
