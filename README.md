@@ -28,8 +28,10 @@ La aplicación permite interactuar con el usuario mediante alertas y capturar im
 
 Se muestra el uso del servicio de alertas implementado en la aplicación.
 - Alerta 1
+  
 ![Alerta 1](./Screenshots/Alerta.png)
 - Alerta 2
+  
 ![Alerta 2](./Screenshots/Alerta1.png)
 ### 📷 Uso de cámara
 
