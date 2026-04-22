@@ -41,6 +41,10 @@ Captura de imagen desde el dispositivo móvil.
 Visualización de imágenes almacenadas localmente.
 ![Galeria](./Screenshots/Galeria.png)
 
+## 📱 Icono de la aplicación móvil
+Visualización del icono de la app
+![IconoApp](./Screenshots/IconoApp.png)
+
 ## 📱 Ejecución en dispositivo real
 
 La aplicación fue probada en un dispositivo físico con Android 11, demostrando el correcto funcionamiento de la cámara, almacenamiento y alertas.
@@ -57,6 +61,40 @@ npm install
 ionic serve
 4. Ejecutar en Android:
 ionic capacitor run android
+
+## 🎨 Personalización de la aplicación
+
+### 🟢 Ícono de la aplicación
+Se implementó un ícono personalizado para la aplicación utilizando Capacitor.
+
+Para ello se creó el archivo:
+resources/icon.png
+
+Luego se ejecutó el comando:
+npx capacitor-assets generate
+
+---
+
+### 🔵 Splash Screen
+Se añadió una pantalla de inicio personalizada (Splash Screen) que se muestra al abrir la aplicación.
+
+Archivo utilizado:
+resources/icon.png
+
+---
+
+### ⚙️ Configuración realizada
+npm install @capacitor/assets –save-dev
+npx capacitor-assets generate
+ionic capacitor sync
+
+---
+
+### 📱 Resultado
+La aplicación ahora cuenta con:
+- ✔ Ícono personalizado
+- ✔ Splash Screen personalizado
+- ✔ Mejor presentación visual
 
 ## 👨‍💻 Autor
 
