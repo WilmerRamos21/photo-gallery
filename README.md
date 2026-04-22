@@ -67,10 +67,10 @@ ionic capacitor run android
 ### 🟢 Ícono de la aplicación
 Se implementó un ícono personalizado para la aplicación utilizando Capacitor.
 
-Para ello se creó el archivo:
+1. Para ello se creó el archivo:
 resources/icon.png
 
-Luego se ejecutó el comando:
+2. Luego se ejecutó el comando:
 npx capacitor-assets generate
 
 ---
@@ -78,15 +78,15 @@ npx capacitor-assets generate
 ### 🔵 Splash Screen
 Se añadió una pantalla de inicio personalizada (Splash Screen) que se muestra al abrir la aplicación.
 
-Archivo utilizado:
+- Archivo utilizado:
 resources/icon.png
 
 ---
 
 ### ⚙️ Configuración realizada
-npm install @capacitor/assets –save-dev
-npx capacitor-assets generate
-ionic capacitor sync
+- npm install @capacitor/assets –save-dev
+- npx capacitor-assets generate
+- ionic capacitor sync
 
 ---
 
